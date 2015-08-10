@@ -3,7 +3,7 @@ exports.outputHelloWorld = function () {
 };
 
 
-// revisit this insane answer 
+// revist
 
 // // exports.calculate = function (amt) {
 // 	if( amt < 11 ){
